@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("./images/portfolio-background.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+}
+
+.navbar{
+    background-color: transparent;
+    backdrop-filter: blur(50px);
+}
