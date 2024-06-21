@@ -14,5 +14,5 @@ body{
 
 .navbar{
     background-color: transparent;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(100px);
 }
